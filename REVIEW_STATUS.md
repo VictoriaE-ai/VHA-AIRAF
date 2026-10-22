@@ -14,6 +14,6 @@ Prepared for Victoria's review on 22 October 2026. Not an approval record.
 
 ## Suggested next publication step
 
-Review the README and worked report with Victoria. After explicit approval, create or populate a dedicated VHA-AIRAF repository with an accurate development status and link it from the portfolio hub. Public draft publication does not imply operational validation. Practitioner review and complete reference mapping remain development priorities regardless of repository visibility.
+The project files are now in the private VHA-AIRAF repository. Next, review the README and worked report, complete the publication checks, and obtain Victoria’s approval before making the repository public or linking it from the portfolio hub. Public draft publication does not imply operational validation. Practitioner review and complete reference mapping remain development priorities.
 
 The package README is ready for editorial review; this file does not request or record permission to publish.
