@@ -9,7 +9,7 @@ Prepared for Victoria's review on 22 October 2026. Not an approval record.
 | Willow example | Evidence-linked fictional narrative and calculated output | All facts invented; scores require independent critique |
 | References | Initial verified concept register in master framework | Detailed mapping and legal applicability remain unfinished |
 | Supporting documents | Original files reviewed previously | Earlier presentation/library/comparison not yet reconciled |
-| Licensing | No licence selected | Author to decide intended reuse permissions |
+| Licensing | No reuse licence is currently included | Reuse permissions remain undecided |
 | Publication | Project files uploaded to the private VHA-AIRAF repository | Public release not yet made |
 
 ## Suggested next publication step
