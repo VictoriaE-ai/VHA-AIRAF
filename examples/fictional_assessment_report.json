@@ -1,0 +1,1046 @@
+{
+  "calculator_version": "0.1.0",
+  "metadata": {
+    "organisation": "Willow Example Care Service (fictional)",
+    "scope": "Synthetic calculator fixture only",
+    "assessor": "Fictional assessor",
+    "reviewer": "Fictional reviewer",
+    "assessment_date": "2026-10-22",
+    "evidence_cutoff_date": "2026-10-22",
+    "methodology_version": "1.2-consolidated-draft",
+    "question_bank_version": "1.2-draft"
+  },
+  "organisation": {
+    "status": "complete",
+    "scored_count": 30,
+    "applicable_count": 30,
+    "coverage_percent": 100.0,
+    "score_sum": 90,
+    "index_percent": 60.0,
+    "capability_profile": "Partially established",
+    "unresolved_questions": [],
+    "evidence_modes": [
+      "exercise"
+    ],
+    "evidence_basis": "exercise"
+  },
+  "pillars": {
+    "Leadership and AI Strategy": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Data Readiness": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Digital Infrastructure": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Workforce Capability": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Governance and Ethics": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Information Governance, Privacy and Cybersecurity": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Patient and Care Safety": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Person-centred Care": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Operational Readiness and Change": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    },
+    "Measurement and Continuous Improvement": {
+      "status": "complete",
+      "scored_count": 3,
+      "applicable_count": 3,
+      "coverage_percent": 100.0,
+      "score_sum": 9,
+      "index_percent": 60.0,
+      "capability_profile": "Partially established",
+      "unresolved_questions": [],
+      "evidence_modes": [
+        "exercise"
+      ],
+      "evidence_basis": "exercise"
+    }
+  },
+  "use_case": {
+    "id": "DEMO-01",
+    "name": "Fictional administrative summarisation",
+    "intended_purpose": "Non-live arithmetic demonstration with synthetic records",
+    "scope": "Synthetic fixture; no residents, suppliers or live system",
+    "owner": "Fictional owner",
+    "limitations": "Not a validated use case or adequate assessment evidence"
+  },
+  "gates": {
+    "G1": {
+      "status": "prerequisites_evidenced",
+      "red_questions": [],
+      "amber_questions": [],
+      "unresolved_questions": []
+    },
+    "G2": {
+      "status": "prerequisites_evidenced",
+      "red_questions": [],
+      "amber_questions": [],
+      "unresolved_questions": []
+    },
+    "G3": {
+      "status": "prerequisites_evidenced",
+      "red_questions": [],
+      "amber_questions": [],
+      "unresolved_questions": []
+    },
+    "G4": {
+      "status": "prerequisites_evidenced",
+      "red_questions": [],
+      "amber_questions": [],
+      "unresolved_questions": []
+    }
+  },
+  "gate_summary": "prerequisites_evidenced",
+  "actions": [
+    {
+      "owner": "Victoria / future reviewer",
+      "due_date": "2026-11-30",
+      "description": "Proposed example action: replace fixture placeholders with a coherent fictional evidence pack and review each anchor. Date is illustrative, not a commitment.",
+      "acceptance_evidence": "Independent review of each scored response."
+    }
+  ],
+  "assessment_records": {
+    "organisation_responses": {
+      "Q1": {
+        "question_id": "Q1",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q1"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q2": {
+        "question_id": "Q2",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q2"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q3": {
+        "question_id": "Q3",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q3"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q4": {
+        "question_id": "Q4",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q4"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q5": {
+        "question_id": "Q5",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q5"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q6": {
+        "question_id": "Q6",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q6"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q7": {
+        "question_id": "Q7",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q7"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q8": {
+        "question_id": "Q8",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q8"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q9": {
+        "question_id": "Q9",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q9"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q10": {
+        "question_id": "Q10",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q10"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q11": {
+        "question_id": "Q11",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q11"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q12": {
+        "question_id": "Q12",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q12"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q13": {
+        "question_id": "Q13",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q13"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q14": {
+        "question_id": "Q14",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q14"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q15": {
+        "question_id": "Q15",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q15"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q16": {
+        "question_id": "Q16",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q16"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q17": {
+        "question_id": "Q17",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q17"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q18": {
+        "question_id": "Q18",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q18"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q19": {
+        "question_id": "Q19",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q19"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q20": {
+        "question_id": "Q20",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q20"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q21": {
+        "question_id": "Q21",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q21"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q22": {
+        "question_id": "Q22",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q22"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q23": {
+        "question_id": "Q23",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q23"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q24": {
+        "question_id": "Q24",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q24"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q25": {
+        "question_id": "Q25",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q25"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q26": {
+        "question_id": "Q26",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q26"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q27": {
+        "question_id": "Q27",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q27"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q28": {
+        "question_id": "Q28",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q28"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q29": {
+        "question_id": "Q29",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q29"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q30": {
+        "question_id": "Q30",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "organisation-Q30"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      }
+    },
+    "use_case_gate_responses": {
+      "Q4": {
+        "question_id": "Q4",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q4"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q5": {
+        "question_id": "Q5",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q5"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q6": {
+        "question_id": "Q6",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q6"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q13": {
+        "question_id": "Q13",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q13"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q14": {
+        "question_id": "Q14",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q14"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q15": {
+        "question_id": "Q15",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q15"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q16": {
+        "question_id": "Q16",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q16"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q17": {
+        "question_id": "Q17",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q17"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q18": {
+        "question_id": "Q18",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q18"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q19": {
+        "question_id": "Q19",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q19"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q20": {
+        "question_id": "Q20",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q20"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q21": {
+        "question_id": "Q21",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q21"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      },
+      "Q30": {
+        "question_id": "Q30",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "use-case-Q30"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Synthetic test value to exercise calculation; not an assessor conclusion.",
+        "limitations": "Fixture tests software logic, not evidence adequacy."
+      }
+    },
+    "evidence_register": {
+      "organisation-Q1": {
+        "description": "Fictional evidence placeholder for Q1; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q1",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q2": {
+        "description": "Fictional evidence placeholder for Q2; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q2",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q3": {
+        "description": "Fictional evidence placeholder for Q3; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q3",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q4": {
+        "description": "Fictional evidence placeholder for Q4; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q4",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q5": {
+        "description": "Fictional evidence placeholder for Q5; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q5",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q6": {
+        "description": "Fictional evidence placeholder for Q6; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q6",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q7": {
+        "description": "Fictional evidence placeholder for Q7; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q7",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q8": {
+        "description": "Fictional evidence placeholder for Q8; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q8",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q9": {
+        "description": "Fictional evidence placeholder for Q9; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q9",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q10": {
+        "description": "Fictional evidence placeholder for Q10; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q10",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q11": {
+        "description": "Fictional evidence placeholder for Q11; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q11",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q12": {
+        "description": "Fictional evidence placeholder for Q12; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q12",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q13": {
+        "description": "Fictional evidence placeholder for Q13; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q13",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q14": {
+        "description": "Fictional evidence placeholder for Q14; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q14",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q15": {
+        "description": "Fictional evidence placeholder for Q15; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q15",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q16": {
+        "description": "Fictional evidence placeholder for Q16; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q16",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q17": {
+        "description": "Fictional evidence placeholder for Q17; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q17",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q18": {
+        "description": "Fictional evidence placeholder for Q18; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q18",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q19": {
+        "description": "Fictional evidence placeholder for Q19; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q19",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q20": {
+        "description": "Fictional evidence placeholder for Q20; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q20",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q21": {
+        "description": "Fictional evidence placeholder for Q21; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q21",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q22": {
+        "description": "Fictional evidence placeholder for Q22; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q22",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q23": {
+        "description": "Fictional evidence placeholder for Q23; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q23",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q24": {
+        "description": "Fictional evidence placeholder for Q24; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q24",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q25": {
+        "description": "Fictional evidence placeholder for Q25; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q25",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q26": {
+        "description": "Fictional evidence placeholder for Q26; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q26",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q27": {
+        "description": "Fictional evidence placeholder for Q27; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q27",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q28": {
+        "description": "Fictional evidence placeholder for Q28; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q28",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q29": {
+        "description": "Fictional evidence placeholder for Q29; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q29",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "organisation-Q30": {
+        "description": "Fictional evidence placeholder for Q30; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://organisation-Q30",
+        "scope": "organisation",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q4": {
+        "description": "Fictional evidence placeholder for Q4; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q4",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q5": {
+        "description": "Fictional evidence placeholder for Q5; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q5",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q6": {
+        "description": "Fictional evidence placeholder for Q6; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q6",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q13": {
+        "description": "Fictional evidence placeholder for Q13; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q13",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q14": {
+        "description": "Fictional evidence placeholder for Q14; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q14",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q15": {
+        "description": "Fictional evidence placeholder for Q15; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q15",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q16": {
+        "description": "Fictional evidence placeholder for Q16; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q16",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q17": {
+        "description": "Fictional evidence placeholder for Q17; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q17",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q18": {
+        "description": "Fictional evidence placeholder for Q18; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q18",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q19": {
+        "description": "Fictional evidence placeholder for Q19; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q19",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q20": {
+        "description": "Fictional evidence placeholder for Q20; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q20",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q21": {
+        "description": "Fictional evidence placeholder for Q21; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q21",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "use-case-Q30": {
+        "description": "Fictional evidence placeholder for Q30; not a real reviewed evidence pack.",
+        "owner": "Fictional reviewer",
+        "reference": "fictional://use-case-Q30",
+        "scope": "use-case",
+        "date": "2026-10-22",
+        "limitations": "Synthetic fixture only; cannot substantiate a real assessment."
+      },
+      "E01": {
+        "description": "Unused fictional date-validation fixture",
+        "owner": "Fictional owner",
+        "reference": "fictional://date-test",
+        "scope": "test",
+        "date": "2026-10-22",
+        "limitations": "Not assessment evidence"
+      }
+    }
+  },
+  "notice": "Development prototype. Not validated. Evidence adequacy and applicability require human review. No deployment approval is issued."
+}

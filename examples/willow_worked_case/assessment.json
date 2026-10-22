@@ -1,0 +1,776 @@
+{
+  "metadata": {
+    "organisation": "Willow Example Care Service \u2014 fictional",
+    "scope": "Educational readiness walkthrough, not live assessment",
+    "assessor": "Illustrative assessor (authored role)",
+    "reviewer": "Illustrative reviewer role \u2014 independent review pending",
+    "assessment_date": "2026-10-22",
+    "evidence_cutoff_date": "2026-10-22",
+    "methodology_version": "1.2-consolidated-draft",
+    "question_bank_version": "1.2-draft"
+  },
+  "organisation_responses": [
+    {
+      "question_id": "Q1",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E01"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "All essential plan components are in operation; repeated monitoring and corrective review are not evidenced.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q2",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E02"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Role-relevant scenario covers benefits, errors, data/bias risks, accountability and escalation; no longitudinal learning evidence.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q3",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E03"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Complete reviewed brief supports preparation; benefits remain prospective.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q4",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E04"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Quality assessment is partly applied, but purpose-specific acceptance criteria and unresolved defects limit the score.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q5",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E05"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Traceable quality process is partly implemented; incomplete correction records prevent score 3.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q6",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E06"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Flow mapping exists but controlled access is not demonstrated throughout.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q7",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E07"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Representative infrastructure and fallback checks meet preparedness anchor; not live performance.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q8",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E08"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Standalone operation is justified but exception testing is incomplete.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q9",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E09"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Support exercise demonstrates defined responsibilities and recovery preparedness, not service reliability.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q10",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E10"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Small fictional team has role/shift coverage and demonstrated understanding; ongoing effectiveness not established.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q11",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E11"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Practical checks support relevant task ability with accessible support; no longitudinal review.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q12",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E12"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "An operating learning process with coverage and follow-up is described; score 4 monitoring is not established.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q13",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E13"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Deferral is sensible, but a materially incomplete substantive review limits the score.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q14",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E14"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Fairness and transparency risks are identified, but evidence and practical concern arrangements remain incomplete.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q15",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E15"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Ownership, authority, cover and operation are supported by the fictional decision record.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q16",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E16"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Proposed safeguards have material implementation and review gaps.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q17",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E17"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "A scoped review is started but verification and follow-up are incomplete.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q18",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E18"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Demonstrated competence and coverage support score 3; repeated improvement evidence is absent.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q19",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E19"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Structured hazards exist but safeguards and review are not substantiated.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q20",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E20"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Relevant exercise supports response preparedness; no actual AI incident performance is claimed.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q21",
+      "state": "scored",
+      "score": 1,
+      "evidence_ids": [
+        "E21"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Nominal sign-off with unreliable authority, capacity and intervention meets score 1, not effective oversight.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q22",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E22"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Effects are considered but practical arrangements and input remain partial.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q23",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E23"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Some involvement occurred but coverage and feedback closure are incomplete.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q24",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E24"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Some adjustments are tested; complete end-to-end accessibility evidence is missing.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q25",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E25"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Plan plus practical exercise meets the revised preparedness route for Q25; no sustained performance claim.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q26",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E26"
+      ],
+      "evidence_mode": "exercise",
+      "rationale": "Validated map and representative walk-through meet score 3; repeated practice comparisons are absent.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established."
+    },
+    {
+      "question_id": "Q27",
+      "state": "scored",
+      "score": 3,
+      "evidence_ids": [
+        "E27"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Participation has practical coverage and demonstrable decision influence.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q28",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E28"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Defined measures lack a demonstrated usable collection/calculation.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q29",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E29"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "Evaluation design is proposed but feasibility and baseline evidence are incomplete.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    },
+    {
+      "question_id": "Q30",
+      "state": "scored",
+      "score": 2,
+      "evidence_ids": [
+        "E30"
+      ],
+      "evidence_mode": "mixed",
+      "rationale": "A plan exists, but operational monitoring and suspension demonstration are incomplete.",
+      "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification."
+    }
+  ],
+  "use_case": {
+    "id": "WILLOW-EDU-01",
+    "name": "Synthetic handover summarisation mock",
+    "intended_purpose": "Explore administrative draft preparation; no diagnosis, treatment, care recommendation or live use.",
+    "scope": "Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+    "owner": "Fictional deputy manager",
+    "limitations": "All facts authored for education; no vendor selected or endorsed.",
+    "gate_responses": [
+      {
+        "question_id": "Q4",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E04"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Quality assessment is partly applied, but purpose-specific acceptance criteria and unresolved defects limit the score.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q5",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E05"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Traceable quality process is partly implemented; incomplete correction records prevent score 3.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q6",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E06"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Flow mapping exists but controlled access is not demonstrated throughout.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q13",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E13"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Deferral is sensible, but a materially incomplete substantive review limits the score.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q14",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E14"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Fairness and transparency risks are identified, but evidence and practical concern arrangements remain incomplete.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q15",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "E15"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Ownership, authority, cover and operation are supported by the fictional decision record.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q16",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E16"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Proposed safeguards have material implementation and review gaps.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q17",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E17"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: A scoped review is started but verification and follow-up are incomplete.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q18",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "E18"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Named-use-case review: Demonstrated competence and coverage support score 3; repeated improvement evidence is absent.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q19",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E19"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Structured hazards exist but safeguards and review are not substantiated.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q20",
+        "state": "scored",
+        "score": 3,
+        "evidence_ids": [
+          "E20"
+        ],
+        "evidence_mode": "exercise",
+        "rationale": "Named-use-case review: Relevant exercise supports response preparedness; no actual AI incident performance is claimed.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Preparedness only; no live effectiveness established. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q21",
+        "state": "scored",
+        "score": 1,
+        "evidence_ids": [
+          "E21"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: Nominal sign-off with unreliable authority, capacity and intervention meets score 1, not effective oversight.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      },
+      {
+        "question_id": "Q30",
+        "state": "scored",
+        "score": 2,
+        "evidence_ids": [
+          "E30"
+        ],
+        "evidence_mode": "mixed",
+        "rationale": "Named-use-case review: A plan exists, but operational monitoring and suspension demonstration are incomplete.",
+        "limitations": "Illustrative assessor judgement, not independently reviewed. Scenario combines draft and described operating records; no real verification. Scope is the local synthetic mock only; any product or live data requires fresh review."
+      }
+    ]
+  },
+  "evidence_register": {
+    "E01": {
+      "description": "An approved one-page digital plan links documentation quality to protected staff time. The manager owns monthly review, a four-hour preparation allocation and a decision log. A recorded decision deferred tool purchase until a use-case brief was complete.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e01",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E02": {
+      "description": "The manager and deputy completed a recorded scenario: a generated summary omitted a medication change. Both identified uncertainty, retained professional responsibility, rejected the draft and named the quality lead for escalation. Contacts were checked during the exercise.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e02",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E03": {
+      "description": "A reviewed brief defines administrative handover-draft preparation for staff, excludes care recommendations and resident-facing outputs, names the deputy as owner and compares a revised manual template. It defines time, omission and correction measures, a two-week baseline-collection plan and criteria to abandon the idea. Staff reviewed feasibility.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e03",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E04": {
+      "description": "A synthetic record set contains 40 invented handovers. A manual check found six incomplete timestamps and three ambiguous names. A draft quality checklist covers completeness, consistency, accuracy against the scenario specification and timeliness. No acceptance thresholds or completed correction review exist.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e04",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E05": {
+      "description": "A draft correction procedure assigns a records owner, validation and escalation steps, a change log and downstream notification. Staff tested three corrections, but two lacked reviewer initials and no repeat-defect review occurred.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e05",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E06": {
+      "description": "An input/output map specifies local synthetic files and a local mock summariser, with no external endpoint. Proposed read/write roles and export restrictions are documented. The exercise found an unrestricted shared output folder; permission removal and transfer exception checks remain unverified.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e06",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E07": {
+      "description": "Requirements specify two staff devices and access to the local mock tool. A representative walk-through confirmed availability and usability. The technical owner exercised device failure and return to the manual template. No long-term availability record is provided.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e07",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E08": {
+      "description": "The proposed workflow is standalone; no automatic record integration is intended. A field map and manual copy-back rules exist. Normal copying was tested, but wrong-person matching, missing fields and rollback scenarios were not.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e08",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E09": {
+      "description": "The technical owner and deputy have named support roles, coverage, escalation contacts and update/exit responsibilities. A disruption exercise used an unavailable primary contact, escalated to the deputy and restored manual work. No live AI service is supported.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e09",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E10": {
+      "description": "Six staff covering each of three relevant roles on day and night shifts completed AI scenarios with synthetic summaries. All identified plausible errors, retained human responsibility, avoided confidential inputs and used the escalation route. One initial misconception was reassessed successfully. Agency staff are excluded from use pending induction.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e10",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E11": {
+      "description": "The same six staff demonstrated login, record finding, correction and error escalation using synthetic records. One worker used enlarged text and another a supported demonstration. A missed navigation step was corrected and reassessed; task/role coverage is recorded.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e11",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E12": {
+      "description": "A learning owner operates an induction/refresher plan with protected shift time, scenario checks, reassessment and change-triggered updates. Existing digital-system training records show delivery to all six relevant staff; the AI introduction was included and checked. No repeated evaluation cycle is evidenced.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e12",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E13": {
+      "description": "The pre-use review checklist requests intended purpose, supplier evidence, safety and information-governance input, conditions and re-review triggers. The proposal was deferred in a decision record. Supplier scrutiny and specialist review are not complete; the checklist is not fully applied.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e13",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E14": {
+      "description": "An impact note identifies staff with different digital confidence, residents whose handovers contain less structured information and language-related omissions. It proposes explanations and a concern route. Accessible materials and feedback from less represented groups have not been tested.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e14",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E15": {
+      "description": "The registered manager holds documented accountability, with deputy cover and access to technical/quality advice. The authority matrix permits deferral and suspension. The manager exercised this authority by deferring procurement and assigning review actions. Specialist responsibilities are allocated.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e15",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E16": {
+      "description": "An information inventory identifies possible confidential handover content and specifies synthetic-only preparation. Draft retention and deletion rules and approved-tool boundaries exist. A shared-folder exposure was found and specialist handling review is pending. Accidental confidential submission controls have not been demonstrated.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e16",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E17": {
+      "description": "A cyber checklist covers local devices, access, updates, backup and supplier connections. The mock environment has no vendor endpoint, but any future product needs separate scrutiny. Recovery was partly exercised; permission configuration and update responsibilities remain unresolved.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e17",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E18": {
+      "description": "All six relevant staff completed role-based privacy/security learning and synthetic scenarios. They identified wrong-destination disclosure, suspicious access and unapproved AI use, and demonstrated the local reporting route. Coverage, reassessment and refresher ownership are recorded.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e18",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E19": {
+      "description": "A hazard note lists omitted critical facts, wrong-person attribution, overreliance and review workload. It assigns controls and owners. Competent review and control verification remain incomplete, and stop/fallback authority within the proposed AI workflow is not demonstrated.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e19",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E20": {
+      "description": "The existing incident process includes safety, technical and information concerns, immediate protection, triage, deputy cover, action tracking and feedback. A synthetic missed-alert exercise demonstrated reporting, return to manual work and a tracked follow-up; a quality lead assesses external-reporting questions.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e20",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E21": {
+      "description": "The proposal says a senior worker will sign off summaries. During the scenario the worker could flag an error but could not edit or reject the locked output, had no allocated review time and was unsure who could suspend the tool. This contradicted the draft claim of full human oversight.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e21",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E22": {
+      "description": "An experience note considers dignity, preferences, surveillance concerns, human contact and staff distraction from handover work. It proposes feedback and balancing measures. Relevant resident review and demonstration of preference handling are incomplete.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e22",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E23": {
+      "description": "A voluntary involvement plan offers accessible conversations and appropriate advocate input. Two fictional feedback summaries identify reduced-contact and explanation concerns. Night-shift and communication-support perspectives are missing, and no response-to-decision log has been completed.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e23",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E24": {
+      "description": "The barrier assessment identifies visual access, language, cognitive load and device availability. Enlarged-text staff use was checked, but alternative service routes and resident-facing explanations were not evaluated with relevant people. Owners are named in a draft action log.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e24",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E25": {
+      "description": "A small-change plan assigns an owner, staff roles, preparation time, milestones, communication, dependencies, acceptance checks and manual fallback. A practical exercise simulated an absent owner and delayed supplier response, adjusted preparation tasks and recorded lessons. No live transformation is claimed.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e25",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E26": {
+      "description": "Staff validated a map from incoming handover to human review and record update, including role handovers, missing information, exception escalation and manual fallback. A synthetic walk-through checked it, and the deputy owns version updates.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e26",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E27": {
+      "description": "All six staff were offered protected time through day/night meetings or private feedback. A staff concern about duplicate entry changed the proposed workflow to avoid mandatory double recording. Responses were shared and workload support was allocated. No repeated participation review exists.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e27",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E28": {
+      "description": "Draft metric definitions cover draft time, significant omissions, correction effort and staff/resident experience, with owners and collection plans. No representative calculation or completeness check has been completed. Action thresholds are provisional.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e28",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E29": {
+      "description": "An evaluation plan compares the mock-assisted workflow with a manual template, includes training/review costs and abandonment criteria, and distinguishes staff time from cash savings. Baseline collection and comparison feasibility are untested.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e29",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    },
+    "E30": {
+      "description": "A lifecycle plan names a reviewer, periodic/change-triggered reviews, deterioration signals, suspension authority, manual fallback and restart checks. The proposed tool-specific stop and restart exercise has not occurred. Monitoring inputs are still draft.",
+      "owner": "Fictional quality lead",
+      "reference": "evidence_pack.md#e30",
+      "scope": "Willow fictional organisation; Non-live local mock handover summarisation; synthetic records only; no clinical recommendation or live record write-back.",
+      "date": "2026-10-22",
+      "limitations": "Authored scenario facts only; no real provider, interviews, documents or tests exist."
+    }
+  },
+  "actions": [
+    {
+      "id": "A1",
+      "owner": "Fictional manager",
+      "due_date": "2026-11-05",
+      "description": "Resolve Q21 authority, review capacity, rejection and fallback.",
+      "acceptance_evidence": "Demonstrated wrong-output scenario with accountable reviewer, allocated time, working rejection/stop and fallback; reviewed against Q21 anchor."
+    },
+    {
+      "id": "A2",
+      "owner": "Fictional technical and records owners",
+      "due_date": "2026-11-12",
+      "description": "Resolve Q4\u2013Q6 and Q16\u2013Q17 data/configuration gaps.",
+      "acceptance_evidence": "Purpose-specific checks, traceable corrections, denied-access and controlled-flow tests with reviewed results."
+    },
+    {
+      "id": "A3",
+      "owner": "Fictional quality lead",
+      "due_date": "2026-11-19",
+      "description": "Complete Q13\u2013Q14, Q19 and Q30 scoped review and safeguards.",
+      "acceptance_evidence": "Completed review, tested safeguards and stop/restart demonstration; independent review of residual limitations."
+    },
+    {
+      "id": "A4",
+      "owner": "Fictional involvement lead",
+      "due_date": "2026-11-19",
+      "description": "Complete Q22\u2013Q24 feedback and accessible alternatives.",
+      "acceptance_evidence": "Accessible input, response-to-decision log, tested alternatives and recorded limitations."
+    },
+    {
+      "id": "A5",
+      "owner": "Fictional evaluation owner",
+      "due_date": "2026-11-26",
+      "description": "Test Q28\u2013Q29 measures and evaluation feasibility.",
+      "acceptance_evidence": "Reproducible sample calculations, baseline/comparison plan and balancing measures; no unsupported benefits claim."
+    }
+  ]
+}
