@@ -15,8 +15,6 @@ st.warning(
 
 st.write("Welcome. This dashboard will display readiness scores and critical gates.")
 
-if st.button("Test my first button"):
-    st.success("Your button works!")
 from pathlib import Path
 import json
 
