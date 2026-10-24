@@ -75,6 +75,12 @@ Willow Example Care Service is entirely fictional. Its proposed activity is a no
 
 The scenario assigns management accountability but shows that staff cannot reliably reject incorrect outputs and lack allocated review time. The report retains this contradiction and identifies acceptance evidence for remediation. Its judgements are authored illustrations awaiting independent review; complete responses do not establish adequate evidence or safe use.
 
+## Dashboard preview
+
+![Fictional Willow assessment dashboard](vha-airaf-dashboard.png)
+
+Fictional demonstration only. Not independently validated.
+
 ## Run the dashboard locally
 
 The Streamlit dashboard displays the fictional Willow example, capability score, four critical gates, pillar scores and improvement actions. Results can be downloaded as JSON.
