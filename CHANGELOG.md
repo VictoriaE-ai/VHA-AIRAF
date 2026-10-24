@@ -2,6 +2,14 @@
 
 All entries describe locally prepared drafts; they are not GitHub release announcements.
 
+## Dashboard update — 24 October 2026
+
+- Added a local Streamlit dashboard for the fictional Willow assessment.
+- Added score and gate results, pillar table and chart, improvement actions and JSON download.
+- Added setup files, running instructions and a dashboard screenshot.
+- Confirmed all 22 calculator tests pass locally.
+- Online hosting and independent framework validation remain outstanding.
+
 ## Worked-example package 0.2.0 draft — 22 October 2026
 
 - Added Willow's 30 fictional evidence excerpts, explicit organisation and use-case responses, readable report and five action priorities.
