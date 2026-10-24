@@ -116,6 +116,7 @@ The input keeps organisation responses and named-use-case gate responses separat
 - Standard-library Python calculator with automated tests.
 - Three calculation fixtures demonstrating normal, failed-gate and missing-evidence behaviour.
 - A fictional evidence-linked assessment report and prioritised action plan.
+- Streamlit dashboard for exploring the fictional Willow assessment, with critical-gate results, pillar chart, improvement actions and JSON download.
 
 ## Work in progress
 
