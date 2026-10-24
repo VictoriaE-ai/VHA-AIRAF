@@ -74,6 +74,7 @@ Willow Example Care Service is entirely fictional. Its proposed activity is a no
 | G4 | **Red — Q21 human oversight scores 1** |
 
 The scenario assigns management accountability but shows that staff cannot reliably reject incorrect outputs and lack allocated review time. The report retains this contradiction and identifies acceptance evidence for remediation. Its judgements are authored illustrations awaiting independent review; complete responses do not establish adequate evidence or safe use.
+
 ## Run the dashboard locally
 
 The Streamlit dashboard displays the fictional Willow example, capability score, four critical gates, pillar scores and improvement actions. Results can be downloaded as JSON.
@@ -94,6 +95,7 @@ In the dashboard:
 Keep the terminal open while using the dashboard. Press **Ctrl + C** to stop it.
 
 This dashboard runs on your computer. It is not currently hosted online and does not support entering a new assessment. All example data is fictional.
+
 ## Run the calculator
 
 Use Python 3.10 or later. The calculator uses the standard library; no additional packages are required. Run from the repository root:
