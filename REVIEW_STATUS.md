@@ -10,7 +10,8 @@ Prepared for Victoria's review on 22 October 2026. Not an approval record.
 | References | Initial verified concept register in master framework | Detailed mapping and legal applicability remain unfinished |
 | Supporting documents | Original files reviewed previously | Earlier presentation/library/comparison not yet reconciled |
 | Licensing | No reuse licence is currently included | Reuse permissions remain undecided |
-| Publication | Project files uploaded to the private VHA-AIRAF repository | Public release not yet made |
+| Publication | Repository public; demonstration dashboard hosted on Streamlit and linked from the portfolio | Independent framework validation remains outstanding |
+
 
 ## Suggested next publication step
 
