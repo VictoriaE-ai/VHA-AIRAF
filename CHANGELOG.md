@@ -1,6 +1,15 @@
 # Development change log
 
-All entries describe locally prepared drafts; they are not GitHub release announcements.
+Entries record development and publication milestones. Versioned GitHub releases are recorded separately when created.
+
+## Public demonstration and hosting — 25 October 2026
+
+- Repository made public as a development prototype.
+- Demonstration dashboard deployed to Streamlit Community Cloud using Python 3.14.
+- Confirmed the hosted Willow example displays 48.7% capability, 100% coverage, Amber gates G1–G3 and Red gate G4.
+- Confirmed JSON results download.
+- Added the live dashboard link to the project README and VictoryHealth Analytics portfolio.
+- Independent framework validation and practitioner review remain outstanding.
 
 ## Dashboard update — 24 October 2026
 
