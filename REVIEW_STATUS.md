@@ -13,8 +13,10 @@ Prepared for Victoria's review on 22 October 2026. Not an approval record.
 | Publication | Repository public; demonstration dashboard hosted on Streamlit and linked from the portfolio | Independent framework validation remains outstanding |
 
 
-## Suggested next publication step
+## Next development steps
 
-The project files are now in the private VHA-AIRAF repository. Next, review the README and worked report, complete the publication checks, and obtain Victoria’s approval before making the repository public or linking it from the portfolio hub. Public draft publication does not imply operational validation. Practitioner review and complete reference mapping remain development priorities.
+The VHA-AIRAF repository is public. Its fictional demonstration dashboard is hosted on Streamlit and linked from the VictoryHealth Analytics portfolio.
 
-This repository remains a development prototype. Public release is pending Victoria Ekweani’s review and approval.
+Next priorities are practitioner feedback, independent assessor review of the fictional evidence pack, and completion of source-to-question mapping.
+
+VHA-AIRAF remains a development prototype. Public availability does not imply independent validation, regulatory approval or suitability for operational decisions.
