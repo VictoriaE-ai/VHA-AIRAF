@@ -75,6 +75,14 @@ Willow Example Care Service is entirely fictional. Its proposed activity is a no
 
 The scenario assigns management accountability but shows that staff cannot reliably reject incorrect outputs and lack allocated review time. The report retains this contradiction and identifies acceptance evidence for remediation. Its judgements are authored illustrations awaiting independent review; complete responses do not establish adequate evidence or safe use.
 
+
+## Live dashboard
+
+[Open the VHA-AIRAF demonstration dashboard](https://vha-airaf-malo33l8wwaawrdvx5odvm.streamlit.app)
+
+Click **Load fictional Willow example**, then **Calculate assessment**.
+
+This demonstration uses entirely fictional data. It is a development prototype, not independently validated or approved for operational decisions.
 ## Dashboard preview
 
 ![Fictional Willow assessment dashboard](vha-airaf-dashboard.png)
@@ -100,7 +108,7 @@ In the dashboard:
 
 Keep the terminal open while using the dashboard. Press **Ctrl + C** to stop it.
 
-This dashboard runs on your computer. It is not currently hosted online and does not support entering a new assessment. All example data is fictional.
+These instructions run the dashboard on your computer. A hosted demonstration is also available through the Live dashboard link above. The dashboard does not support entering a new assessment. All example data is fictional.
 
 ## Run the calculator
 
